@@ -1,2 +1,6 @@
 PyMatching
 env
+lib
+bin
+.vscode
+pyvenv.cfg
