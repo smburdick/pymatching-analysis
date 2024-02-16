@@ -41,12 +41,12 @@ Putting it all together:
 
 ## Bibliography
 
-[1] Google Gemini definition of MWPM algorithm.
-[2] https://quantumcomputing.stackexchange.com/questions/2106/what-is-the-surface-code-in-the-context-of-quantum-error-correction
-[3] https://arxiv.org/pdf/2112.03708.pdf
-[4] Google Gemini definition of all-to-all Djikstra search
-[5] https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-[6] Google Gemini definition of depolarizing noise in the context of quantum computing
-[7] Ibid., definition of syndrome extraction in quantum error correction.
-[8] https://en.wikipedia.org/wiki/Superconductivity
-[9] Google Gemini answer to "What is the connection between the MWPM algorithm and the surface code?"
+[1] Google Gemini definition of MWPM algorithm.<br>
+[2] https://quantumcomputing.stackexchange.com/questions/2106/what-is-the-surface-code-in-the-context-of-quantum-error-correction<br>
+[3] https://arxiv.org/pdf/2112.03708.pdf<br>
+[4] Google Gemini definition of all-to-all Djikstra search<br>
+[5] https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm<br>
+[6] Google Gemini definition of depolarizing noise in the context of quantum computing<br>
+[7] Ibid., definition of syndrome extraction in quantum error correction.<br>
+[8] https://en.wikipedia.org/wiki/Superconductivity<br>
+[9] Google Gemini answer to "What is the connection between the MWPM algorithm and the surface code?"<br>
